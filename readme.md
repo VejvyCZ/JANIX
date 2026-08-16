@@ -15,6 +15,4 @@ UKÁZKA PROSTŘEDÍ SYSTÉMU
 
 ---
 
-<img width="1180" height="710" alt="janix ikon web" src="https://github.com/user-attachments/assets/1841b989-7c4f-4290-bfa8-034d279fe92a" />
-
 
